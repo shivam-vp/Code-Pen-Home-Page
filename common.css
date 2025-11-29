@@ -1,13 +1,1 @@
-body {
-    margin: 0;
-    /* Using weights from the linked fonts */
-    font-family: 'Roboto', sans-serif;
-    font-weight: 400;
-    background-color: black; /* Set the page background to black */
-}
 
-/* Basic styling for anchor tags in the nav bar */
-a {
-    text-decoration: none;
-    color: inherit;
-}
